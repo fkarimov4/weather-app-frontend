@@ -36,7 +36,7 @@ export default function Weather() {
           />
         </label>
         <button
-          className="bg-green-300 w-full py-4 rounded-xl text-green-900 hover:bg-green-400 transition-all font-bold"
+          className="bg-blue-200 w-full py-4 rounded-xl text-blue-900 hover:bg-blue-400 hover:text-white transition-all font-bold"
           onClick={handleGetWeather}
         >
           Get Weather
