@@ -22,7 +22,7 @@ export default function Weather() {
   };
 
   return (
-    <section className="flex flex-col max-w-2xl bg-slate-100 p-8 mx-auto my-8 rounded-xl">
+    <section className="flex flex-col max-w-md bg-slate-100 p-8 mx-auto my-8 rounded-xl">
       <h1 className="font-bold text-xl mb-8">Weather App</h1>
       <form>
         <label className="flex flex-col">
